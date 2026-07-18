@@ -42,7 +42,7 @@ Esta herramienta de navaja suiza en el Carding dispone de una variedad de opcion
  - pip install -r requirements.txt
 
 // Ejecutar el script
- - python3 cctools.py
+ - python3 checkerdebins.py
 ```
 
 # Colaboradores -Telegram
