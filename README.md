@@ -1,0 +1,2 @@
+# Checkerdebins
+Script termux
